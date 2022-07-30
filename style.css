@@ -1,13 +1,14 @@
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
-@media (max-width: 700px) {}
+@media (max-width: 666px) {
 
-    #flex{
+    #assista,#sinopse{
+        margin: auto;
+    }
+    
 
-    
-    justify-content: space-evenly
-    
 }
+
 
 *{
     scroll-behavior: smooth;
@@ -48,7 +49,6 @@ main {
 }
 #logo{
     
-    
     margin-top: 200px;
     
 }
@@ -76,6 +76,7 @@ main {
     color: white;
 }
 #assista {
+    align-items: right;
     margin-top: 20px;
 }
 #assista h1{
