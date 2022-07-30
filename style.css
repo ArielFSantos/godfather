@@ -3,8 +3,11 @@
 @media (max-width: 666px) {
 
     #assista,#sinopse{
+
         margin: auto;
+
     }
+    
     
 
 }
@@ -30,8 +33,13 @@ header{
 body{
 
     background: rgba(0, 0, 0, 0.966) url(img/img/bg.jpg) no-repeat center top;
+     
     background-size: contain;
+    
+    
+     
 }
+ 
 main {
     height: auto;
     max-width: 1100px;
@@ -44,13 +52,20 @@ main {
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    padding-top: 300px;
+    margin-top: 300px;
     display: flex;
 }
 #logo{
+
+
+    margin-left: 10vw;
+    margin-right: 60%;
+    margin-top: 10vw;
     
-    margin-top: 200px;
+}
+#logo img{
     
+    width: 100%;
 }
 #seta img{
 
@@ -104,8 +119,9 @@ main {
     justify-content: space-around;
     flex-wrap: wrap;
     margin-bottom: 130px;
-    margin-top: 130px;
+    margin-top: 50px;;
     display: flex;
+    
 }
     #irmaos h1{
         padding: 10px;
