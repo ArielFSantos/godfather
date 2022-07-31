@@ -33,7 +33,7 @@ header{
 #background{
 
     
-    background: url(img/img/bg.jpg) no-repeat center top;
+    background: url(img/img/bg2.jpg) no-repeat center top;
     background-size: auto;
       
 }
@@ -64,19 +64,15 @@ main {
 
     margin-left: 50px;
     margin-right: 240px;
-    margin-top: 10vw;
+    margin-top: 300px
     
 }
 #logo img{
     
+    
     width: 80%;
 }
-#seta{
 
-    margin-left: 500px;
-   
-
-}
 #seta img{
     
     width: 9%;
